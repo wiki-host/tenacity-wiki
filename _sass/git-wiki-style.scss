@@ -3,14 +3,16 @@
 @import "w3.scss";
 
 body {
-  background-color: #fff;
+  background-color: #f2f76f;
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #727272;
   font-weight: 400;
 }
 
-h1,
+h1{
+  color:#2ffff2;
+}
 h2,
 h3,
 h4,
